@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6571dff8db9b14591835281e87db377f, type: 3}
+  m_Name: D1E1 - Wait for opportunity
+  m_EditorClassIdentifier: 
+  storyText: "Waiting for an opportunity did not seem fruitful. However, he stumbles
+    and you take a step forward to try and hit him with your axe. As you did, your
+    leg gave up, and you yourself fall to the ground. The attacker did not hesitate
+    as he swung his sword across your abdomen, spilling your guts out on the ground.
+    He then starts running back to the shore to help the rest.\r\n\r\nYou lay there,
+    for a couple of minutes, slowly drowning in your own blood, not knowing when Odin
+    comes. No one seemed to appear, you feel hopeless, godless, alone in a strange
+    land, without family. Young as you were, fathering no children of your own, you
+    leave this world forever.\r\n\r\n1. End. "
+  nextStates:
+  - {fileID: 11400000, guid: c8720f2a38b9d4c4396ccca285b85230, type: 2}

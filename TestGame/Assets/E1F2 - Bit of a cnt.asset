@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6571dff8db9b14591835281e87db377f, type: 3}
+  m_Name: E1F2 - Bit of a cnt
+  m_EditorClassIdentifier: 
+  storyText: "You decide to not let her in. She stands outside in the cold all night.\r\nWaking
+    up to the sunlight shining in on your face, you feel like a bath is in order.
+    You walk towards the door and open it, that's when you notice the girl laying
+    in the dirt. Cold and lifeless.\r\nWops...\r\nYou walk up to her, and as you do
+    scouting party sees you and immediately accuses you of murder, you think... You
+    don't know their language :/\r\nWhatever they said, you run back to get your axe
+    in your small fort. They didn't care about following you, they decided to burn
+    the fort with you inside. Tough luck kiddo...\r\n\r\n1. End."
+  nextStates:
+  - {fileID: 11400000, guid: c8720f2a38b9d4c4396ccca285b85230, type: 2}

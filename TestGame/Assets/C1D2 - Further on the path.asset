@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6571dff8db9b14591835281e87db377f, type: 3}
+  m_Name: C1D2 - Further on the path
+  m_EditorClassIdentifier: 
+  storyText: "Making your way further into the forest turned out to be a most daunting
+    task, you feel your energy slowly draining and your head is becoming drowsy and
+    your feet heavy.\r\nYou decide to walk away from the path to find a spot to rest,
+    and possibly something to eat.\r\n\r\n*You find a few berries and proceed to sleep*\r\n\r\nThe
+    night has passed, what little food you managed to find did not do much at all.
+    The coast is the best place for you to go, there could possibly be more of your
+    countrymen landing with their ships.\r\n\r\n1. Continue."
+  nextStates:
+  - {fileID: 11400000, guid: 05f7b10318252424b97a60b295fbc0cb, type: 2}

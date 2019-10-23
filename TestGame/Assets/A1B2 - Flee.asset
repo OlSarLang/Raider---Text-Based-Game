@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6571dff8db9b14591835281e87db377f, type: 3}
+  m_Name: A1B2 - Flee
+  m_EditorClassIdentifier: 
+  storyText: "\"Coward!\" You hear them yell as you make your way up the shoreline
+    and into the forest.\r\n\r\nOne of the attackers sees you and runs after you.
+    You think of what you can do, not knowing what would work the best. Either you
+    Follow The Path straight ahead, or Go Behind The Big Tree, or Fight Him.\r\n\r\n1.
+    Follow The Path.\r\n\r\n2. Go Behind The Big Tree.\r\n\r\n3. Fight Him."
+  nextStates:
+  - {fileID: 11400000, guid: 33eb641fa2080304290a7752e8e85c5d, type: 2}
+  - {fileID: 11400000, guid: 15501c045da6f324296cb5650b4296dc, type: 2}
+  - {fileID: 11400000, guid: d75ef3c9ecd26e944a1fc1102c82523d, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6571dff8db9b14591835281e87db377f, type: 3}
+  m_Name: E1F1 - Family Business
+  m_EditorClassIdentifier: 
+  storyText: "You let her in and give her food and shelter. The next morning you wake
+    up and she's sitting by the end of your bed. She sees you wake up and leans towards
+    you, giving you a big kiss.\r\nNot many months go by before she is pregnant and
+    starts shooting out offspring. You also learnt the language, so that's something.
+    \r\nYou now have a fort of your own and a wife and children. It really turned
+    out well for you, didn't it?\r\nNot really. You died of cancer after a couple
+    of years.\r\n\r\n1. Win... Sorta."
+  nextStates:
+  - {fileID: 11400000, guid: f54486d8bf8ebe749b255d76873673d9, type: 2}

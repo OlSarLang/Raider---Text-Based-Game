@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6571dff8db9b14591835281e87db377f, type: 3}
+  m_Name: G1 - High coast
+  m_EditorClassIdentifier: 
+  storyText: "The woman is feverish for a couple of days but eventually recovers.
+    She thanks you and gives you a big kiss and a long hug. One of those hugs you
+    give someone you fancy ;)\r\nThe coastline has now appeared. You are in the middle
+    of nowhere, no roads for at least a couple of days. Making your way down to the
+    shoreline was easy, and you start building a shelter for you and the woman, she
+    starts planting and fishing.\r\nYou decide to stay around for a while, it's rather
+    nice here. She thinks so too. \r\n\r\n1. Ask her if she wants to bang\r\n\r\n2.
+    Take it slow, like a r/niceguys"
+  nextStates:
+  - {fileID: 11400000, guid: 81fd2b97d6bca9e4395d774311d77fa4, type: 2}
+  - {fileID: 11400000, guid: 7c1a4b698db4e684e9a92e7c59bf9683, type: 2}

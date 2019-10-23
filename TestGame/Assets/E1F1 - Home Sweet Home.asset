@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6571dff8db9b14591835281e87db377f, type: 3}
+  m_Name: E1F1 - Home Sweet Home
+  m_EditorClassIdentifier: 
+  storyText: "You decide to stay around for a couple of days longer. It kind of feels
+    like home this small cottage in the middle of the forest. You tidy it up the best
+    you can. It's quite cozy. A young northern woman happen upon this cottage, seeking
+    refuge. You take her in, not only because she's of your culture, but her bossom's
+    of the gods themselves. \r\nStaying here isn't so bad you think to yourself. But
+    all things come to an end. A couple of northumbrians come up to the house, knocking
+    on the door. As you do not know their language, they will surely come back with
+    soldiers. You and the woman grab your weapons and storm out the front door.\r\n\r\n1.
+    Continue."
+  nextStates:
+  - {fileID: 11400000, guid: 28416ea625aec3d41afee5f67908552f, type: 2}

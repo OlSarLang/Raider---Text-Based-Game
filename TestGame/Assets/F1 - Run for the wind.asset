@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6571dff8db9b14591835281e87db377f, type: 3}
+  m_Name: F1 - Run for the wind
+  m_EditorClassIdentifier: 
+  storyText: "You run for the whole night with only minutes of rest. Hungry and tired,
+    you collapse in the forest.\r\nAn old one-eyed man wakes you up, looks at you,
+    lets out a smile and says in your tongue - \"You cannot lay here all day son,
+    there's still some use left in you\"\r\nHe takes you to nearby camp with only
+    half a dozen of northmen. They hastily takes out their weapons and point them
+    to you. -\"Who are you?!\".\r\n- \"I'm a northman, just as you. This man showed
+    me to your camp\".\r\nThe northmen looks confused. - \"What man?\" they ask you.\r\nYou
+    look around, confused. - \"He was here a moment ago...\"\r\n\r\n1. Continue"
+  nextStates:
+  - {fileID: 11400000, guid: a656d8882fff7a14281d18fc2fba5899, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6571dff8db9b14591835281e87db377f, type: 3}
+  m_Name: E2 - Weather...
+  m_EditorClassIdentifier: 
+  storyText: "Maybe you should've learnt how to properly read the weather before you
+    did this. Your boat takes one helluva beating and the sail is torn to shreds,
+    your tenacity to improve your shipbuilding payed off though. Your ship is so strong
+    that it is not the rocks that sinks You, but you who sinks the Rocks.\r\nWait..
+    What's that? It's your family home, like the boat literally landed outside your
+    house. How about that...\r\n\r\n1. Win"
+  nextStates:
+  - {fileID: 11400000, guid: 1ebc361e85d0f984298603db07e7d243, type: 2}

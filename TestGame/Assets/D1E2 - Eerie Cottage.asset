@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6571dff8db9b14591835281e87db377f, type: 3}
+  m_Name: D1E2 - Eerie Cottage
+  m_EditorClassIdentifier: 
+  storyText: "You fall asleep, cold and shivering. Why didn't you start a fire? -
+    you ask yourself. Deciding it is way too cold, you make your way to the corner
+    of the room, where there is a small place made for an open fire. But before you
+    start it up you hear faint footsteps outside. The door begins to open very slowly.
+    You axe is still by the bed, on the other side of the cottage. What do you do?\r\n\r\n1.
+    Run up and tackle the door shut\r\n\r\n2. Run for the axe\r\n\r\n3. Hide..."
+  nextStates:
+  - {fileID: 11400000, guid: 09c301f17e218f243b1d794930052ce9, type: 2}
+  - {fileID: 11400000, guid: db49ca2c34e9cce43aacac272d5f7d34, type: 2}
+  - {fileID: 11400000, guid: 9b66f8886c5c55847ba10e79561d6c40, type: 2}

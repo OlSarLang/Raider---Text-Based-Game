@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6571dff8db9b14591835281e87db377f, type: 3}
+  m_Name: C3D1 - Rush Him
+  m_EditorClassIdentifier: 
+  storyText: "You rush him straight on but he stands his ground. He slashes your leg
+    with his sword, making it hard for you to stand up straight. You could either
+    try and fight and wait for a good opportunity, or you could try and tackle him.\r\n\r\nWhat
+    do you do? (Life or Death option)\r\n\r\n1. Wait for an opportunity.\r\n\r\n2.
+    Tackle him."
+  nextStates:
+  - {fileID: 11400000, guid: a48fd325398240f4a93c8e373a3a5384, type: 2}
+  - {fileID: 11400000, guid: 3324a85c6e3fd0d4da3e9320c448351e, type: 2}

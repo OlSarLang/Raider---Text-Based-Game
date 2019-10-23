@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6571dff8db9b14591835281e87db377f, type: 3}
+  m_Name: E2F1 - Close Shut the jaws
+  m_EditorClassIdentifier: 
+  storyText: "Tackling the door as hard as you could on the attacker, his hand, shattered
+    between the door and its frame, a shout of agony is let out. Sure to attract others.
+    You reach the axe and move back to the person who is now kneeling and holding
+    his hand, not a second of hesitant thoughts come to you as you hold your axe up
+    high. With a swift blow to his skull, rendering his body limp. \r\n\r\nThe danger
+    seems to over. But then you hear footsteps in the dark, lots of them. This place
+    is no longer safe, RUN!\r\n\r\n1. RUN!"
+  nextStates:
+  - {fileID: 11400000, guid: 123cc138ac06af242afa80d1ccb23350, type: 2}

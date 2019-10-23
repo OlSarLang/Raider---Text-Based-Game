@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6571dff8db9b14591835281e87db377f, type: 3}
+  m_Name: D2E1 - Fast and Stupid
+  m_EditorClassIdentifier: 
+  storyText: "He rushes straight onward, without really paying much attention. You
+    figure that you could use his momentum to your advantage. As he closes in, you
+    stand still, and in the last possible moment, you step aside and put out your
+    foot to trip him. It works and as he falls forward he tries to protect himself
+    from the fall. Unlucky for him, his own sword impaled him. \r\n\r\nYou hear more
+    soldiers afar, still battling. Moving forward is your only option. \r\n\r\n1.
+    Continue"
+  nextStates:
+  - {fileID: 11400000, guid: 60ed023e096310e418e54682f0dc4820, type: 2}

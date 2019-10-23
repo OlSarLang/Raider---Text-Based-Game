@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6571dff8db9b14591835281e87db377f, type: 3}
+  m_Name: E2F3 - Hide
+  m_EditorClassIdentifier: 
+  storyText: "You hide behind some furniture in the dark corner. The man enters, and
+    looks around. He then moves closer the the open fire...\r\nHe sits down at the
+    table for short while, drowsing off. His head tilts forward, as if he was falling
+    asleep. You decide to stand up and sneak towards the bed where your axe now is.\r\nJust
+    as you reach your axe, the door swings open, a couple of soldiers enters and sees
+    you. They yell and the soldier on the chair jumps up. They corner you and make
+    short work of you. Throwing your lifeless body behind the hut.\r\n\r\n1. End."
+  nextStates:
+  - {fileID: 11400000, guid: c8720f2a38b9d4c4396ccca285b85230, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6571dff8db9b14591835281e87db377f, type: 3}
+  m_Name: G1H2- Sad
+  m_EditorClassIdentifier: 
+  storyText: "You take your time, even when she started having sex with whole villages.
+    One night both you and her are sitting close together in front of the fire. You
+    profess that you like her a lot. She looks at you and says -\"I like you a lot
+    as well, you are my bestest friend\".\r\nShe later married a rich chief and you
+    were left alone in your hut. Well, until the chief happened upon your house with
+    his men and proceeded to laugh at you. \r\nYou also got raped. By the neighbors
+    daughter.\r\n\r\n1. Ouch, you got friendzoned and raped. Boy that's a tough one.
+    Even though you survived, you fucked up. So... You lose."
+  nextStates:
+  - {fileID: 11400000, guid: dd781dc71f72d46459f12e99fb009677, type: 2}
